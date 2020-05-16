@@ -1,3 +1,5 @@
+# STAY HEALTHY
+
 This program is a complete program which will remind you to take care of your health while you are busy doing your work.
 
 This program will remind you to drink water every 30 minutes.
@@ -9,8 +11,3 @@ It also captures the log of the user each of water, eye exercise and body exerci
 The log automatically gets cleared in the beginnig of the month i.e day 1.
 
 The program will run from 9 a.m. to 9 p.m. and within this time only it will remind you to take care of your health.
-
-When 'run.bat' file is opened then the file 'Reminder.py' file will run automatically.
-
-NOTE : If the location of python installed in pc is changed or the location of Reminder.py is changed then various errors 
-will be returned therefore do not change the location of these both files :)
