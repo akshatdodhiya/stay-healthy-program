@@ -1,6 +1,9 @@
 # STAY HEALTHY
 A simple Python program that reminds the basic stuffs to stay healthy after every fixed interval of time all day long.
 
+## Video Demonstration
+[![Youtube](https://img.youtube.com/vi/rQo5JjD_gF0/hqdefault.jpg)](https://www.youtube.com/watch?v=rQo5JjD_gF0)
+
 ## Features
 * This program is a complete program which will remind you to take care of your health while you are busy doing your work.
 
